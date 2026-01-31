@@ -443,7 +443,8 @@ Une fois les deux serveurs démarrés :
 ![Workflows](docs/screenshots/workflows.png)
 
 ### Dashboard Employe  
-![Profile](docs/screenshots/profile.png)
+<img width="776" height="348" alt="image" src="https://github.com/user-attachments/assets/b3d0a37a-27ea-4540-8516-309ac7ed9044" />
+
 
 ---
 
