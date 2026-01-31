@@ -432,15 +432,17 @@ Une fois les deux serveurs démarrés :
 ## 📸 Captures d'écran
 
 ### Page de connexion
-![Login](docs/screenshots/login.png)
+<img width="571" height="374" alt="image" src="https://github.com/user-attachments/assets/2e496661-44c2-40df-affe-2e9a20701725" />
+
 
 ### Dashboard Administrateur
-![Admin Dashboard](docs/screenshots/admin-dashboard.png)
+<img width="947" height="441" alt="image" src="https://github.com/user-attachments/assets/d1e59212-ef61-43fa-8114-0e13fcc425d3" />
 
-### Gestion des Workflows
+
+### Dashboard  Validateur
 ![Workflows](docs/screenshots/workflows.png)
 
-### Page Profil
+### Dashboard Employe  
 ![Profile](docs/screenshots/profile.png)
 
 ---
