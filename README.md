@@ -555,10 +555,10 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 ## 👥 Auteurs
 
-- **[Votre Nom]** - *Développement initial* - [GitHub](https://github.com/votre-username)
+- **IMANE MOURAFIK ,LAILA MASSKOU ,AYA kihal ** - *Développement initial* 
 
 ### Encadrement
-- **[Nom du Professeur]** - *Encadrant académique* - [Université/École]
+- **Hanae Sbai ** - *Encadrant académique* - FSTM
 
 ---
 
@@ -570,27 +570,19 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ## 🙏 Remerciements
 
-- Professeur **[Nom]** pour l'encadrement et les conseils
+- Professeur ** M.Hanae Sbai ** pour l'encadrement et les conseils
 - L'équipe Spring Boot pour leur excellent framework
 - L'équipe Angular pour leur framework moderne
 - La communauté open source
 
 ---
 
-## 📞 Contact
 
-Pour toute question ou suggestion :
-
-- **Email** : votre.email@example.com
-- **LinkedIn** : [Votre Profil](https://linkedin.com/in/votre-profil)
-- **GitHub** : [@votre-username](https://github.com/votre-username)
-
----
 
 <div align="center">
 
 **⭐ N'oubliez pas de mettre une étoile si ce projet vous a aidé ! ⭐**
 
-Made with ❤️ by [Votre Nom]
+
 
 </div>
