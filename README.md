@@ -440,7 +440,8 @@ Une fois les deux serveurs démarrés :
 
 
 ### Dashboard  Validateur
-![Workflows](docs/screenshots/workflows.png)
+<img width="755" height="352" alt="image" src="https://github.com/user-attachments/assets/f768c483-68a1-4165-a330-77ff7ba09d72" />
+
 
 ### Dashboard Employe  
 <img width="776" height="348" alt="image" src="https://github.com/user-attachments/assets/b3d0a37a-27ea-4540-8516-309ac7ed9044" />
