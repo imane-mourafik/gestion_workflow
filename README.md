@@ -141,7 +141,7 @@ Les organisations modernes font face à plusieurs défis dans la gestion de leur
 │  │              │  │              │  │              │      │
 │  └──────────────┘  └──────────────┘  └──────────────┘      │
 └─────────────────────────────────────────────────────────────┘
-                            │ JDBC
+                            │
                             ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                     BASE DE DONNÉES (MySQL)                  │
@@ -555,7 +555,7 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 ## 👥 Auteurs
 
-- **IMANE MOURAFIK ,LAILA MASSKOU ,AYA kihal ** - *Développement initial* 
+- **IMANE MOURAFIK ,LAILA MASSKOU ,AYA KIHAL ** - *Développement initial* 
 
 ### Encadrement
 - **Hanae Sbai ** - *Encadrant académique* - FSTM
